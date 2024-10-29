@@ -1,0 +1,2 @@
+# Parallel Arithmetic Operations with Dual Keyboard Input in C++
+ This C++ project demonstrates the implementation of parallel arithmetic operations (addition, subtraction, multiplication, and division) using dual keyboard input. The program allows users to perform calculations simultaneously from two different sections of the keyboard, ensuring that each input is processed independently without interfering with the other. This setup is designed to showcase parallel processing capabilities and efficient input handling in C++.
